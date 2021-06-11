@@ -1,0 +1,35 @@
+*{
+    margin: 5px;
+    padding: 2.5px;
+    box-sizing: border-box;
+}
+body{
+	text-align: center;
+	font-size:1em;
+	
+}
+marquee{
+	font-size:2em;
+	font-family: Arial Bold;
+	color: yellow;
+	font-size: 50px;
+}
+p{
+	text-align: center;
+	margin:3ex;
+	font-size:20px;
+	font-family: Comic Sans MS;
+	color: yellow;
+}
+h3{
+	font-size: 18px;
+	font-family:Rockwell;
+}
+h1{
+	font-size:50px;
+	font-family: Franklin Gothic Medium;
+}
+h2{
+	font-size:35px;
+	font-family: Franklin Gothic Medium;
+}
